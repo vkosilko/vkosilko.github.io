@@ -65,7 +65,7 @@ Professional retraining in Entrepreneurship
 ### **Awards**  
 
 **Microsoft Intelligent Manufacturing Award** \| Roland Berger \| 2024  
-Innovative solution for sustainable battery production. \| [Link](https://www.rolandberger.com/en/Insights/Publications/The-winners-of-the-Microsoft-Intelligent-Manufacturing-Award-2024.html)  
+Innovative solution for sustainable battery production \| [Link](https://www.rolandberger.com/en/Insights/Publications/The-winners-of-the-Microsoft-Intelligent-Manufacturing-Award-2024.html)  
 
 ### **Languages**  
 - Russian 
