@@ -4,7 +4,7 @@
 
 ---
 
-### **Professional Summary**   
+### **Summary**   
 Sustainable Technologies and Automation Architect specializing in AI, cloud services, and intelligent automation, delivering scalable solutions that transform business processes and advance ESG objectives.  
 
 ### **Skills**  
@@ -49,9 +49,9 @@ Sustainable Technologies and Automation Architect specializing in AI, cloud serv
 
 ### **Education**  
 
-**Bauman Moscow State Technical University** | Moscow, Russia | 2002 – 2008  
+- **Bauman Moscow State Technical University** | Moscow, Russia | 2002 – 2008  
 Radioelectronic Systems Engineer (M\.Sc.)  
-**Moscow State University of Management** | Moscow, Russia | 2005 – 2006  
+- **Moscow State University of Management** | Moscow, Russia | 2005 – 2006  
 Professional retraining in Entrepreneurship  
 
 ### **Certifications**
@@ -64,8 +64,8 @@ Professional retraining in Entrepreneurship
 
 ### **Awards**  
 
-**Microsoft Intelligent Manufacturing Award** | Roland Berger | 2024  
-Innovative solution for sustainable battery production | [Link](https://www.rolandberger.com/en/Insights/Publications/The-winners-of-the-Microsoft-Intelligent-Manufacturing-Award-2024.html)  
+**Microsoft Intelligent Manufacturing Award** \| Roland Berger \| 2024  
+Innovative solution for sustainable battery production. \| [Link](https://www.rolandberger.com/en/Insights/Publications/The-winners-of-the-Microsoft-Intelligent-Manufacturing-Award-2024.html)  
 
 ### **Languages**  
 - Russian 
