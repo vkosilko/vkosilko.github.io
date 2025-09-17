@@ -49,9 +49,9 @@ Sustainable Technologies and Automation Architect specializing in AI, cloud serv
 
 ### **Education**  
 
-- **Bauman Moscow State Technical University** | Moscow, Russia | 2002 – 2008  
+**Bauman Moscow State Technical University** | Moscow, Russia | 2002 – 2008  
 Radioelectronic Systems Engineer (M\.Sc.)  
-- **Moscow State University of Management** | Moscow, Russia | 2005 – 2006  
+**Moscow State University of Management** | Moscow, Russia | 2005 – 2006  
 Professional retraining in Entrepreneurship  
 
 ### **Certifications**
