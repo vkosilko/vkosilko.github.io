@@ -1,6 +1,6 @@
 
 
-**Email:** vladimir.kosilko@gmail.com | **Phone:** +46733749396 | **LinkedIn:** [vladimir-kosilko](https://www.linkedin.com/in/vladimir-kosilko)
+**Email:** vladimir.kosilko@gmail.com | **Phone:** +46733749396 | **LinkedIn:** [/in/vladimir-kosilko](https://www.linkedin.com/in/vladimir-kosilko)
 
 ---
 
