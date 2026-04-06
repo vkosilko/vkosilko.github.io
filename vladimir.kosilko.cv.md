@@ -71,7 +71,7 @@ Innovative solution for sustainable battery production \| [Link](https://www.rol
 
 ### **Leadership Profile**
 
-**Gallup CliftonStrengths:** Relator · Harmony · Responsibility · Developer · Futuristic
+**Gallup Clifton Strengths:** Relator · Harmony · Responsibility · Developer · Futuristic
 
 I value transparency, a playing-coach mindset, and building trust through commitment and delivery on promised results.
 
