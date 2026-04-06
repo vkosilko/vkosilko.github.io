@@ -5,7 +5,7 @@
 ---
 
 ### **Summary**   
-Sustainable Technologies and Automation Architect specializing in AI, cloud services, and intelligent automation, delivering scalable solutions that transform business processes and advance ESG objectives.  
+Enterprise IT architect and SaaS platform manager with 15+ years owning the full lifecycle of complex automation and AI platforms across global organizations. Experienced in governing enterprise applications, evaluating and integrating AI-driven tools, and partnering with business stakeholders across IT, InfoSec, HR, Finance, and Legal both in-house and client-facing. Skilled in automation and AI platform ownership, DevOps best practice governance, and Center of Excellence management.
 
 ### **Skills**  
 - **Artificial Intelligence:**  AI Architecture, AI Agents, Data & AI Processes, Agentic Automation;
