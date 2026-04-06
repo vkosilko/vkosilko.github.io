@@ -10,21 +10,22 @@ Sustainable Technologies and Automation Architect specializing in AI, cloud serv
 ### **Skills**  
 - **Artificial Intelligence:**  AI Architecture, AI Agents, Data & AI Processes, Agentic Automation;
 - **IT Architecture:** Process, Data, Business, Automation, Integration architecture 
-- **Intelligent process automation:** MS Power Platform, UiPath, Automation Anywhere, BluePrism;
+- **Intelligent process automation:** MS Power Platform, UiPath, Automation Anywhere, BluePrism, n8n;
 - **Sustainability:** SAP SCT, Microsoft SM;
-- **Cloud technologies:** MS Azure AI solutions, DevOps, Integration services, Logic Apps;
+- **Cloud technologies:** MS Azure AI solutions, DevOps, Integration services, Logic Apps, GCP;
 - **Business systems:** ERP, Supplier engagement, Process management, LMS, HRMS;
 - **CI/CD and infrastructure automation:** Github Actions, Azure DevOps, Gitlab CI, Terraform, Ansible;
 - **Development:** Python, javaScript; spec-, test-driven development;
 - **Application programming interfaces:** REST, Odata, Graph; 
 - **Business processes:** analysis, design, optimisation, implementation, automation;
-- **Project management:** Team management, Agile methodology, Center of excellence development, Technical documentation
+- **Project management:** Team management, Agile and Scrum methodology, Center of excellence development, Technical documentation
 
 ### **Work Experience**  
 
 **Cloud Advisory Manager** | **Accenture**  | Munich, Germany | 11.2024 – Present  
-- Designing and executing IT architecture transformation for the clients to achieve ESG goals. Analyzing client IT landscape, improving software integration capabilities, developing target architecture and transition roadmap. 
-- Developing innovative solutions to support IT and business teams with accelerated ESG data discovery, collection, transformation and reporting, involving Generative AI and agentic business process automation.
+- Led product strategy and technical architecture of automation platform leveraging agentic AI and intelligent process automation, reducing ESG data collection time by 80% and enabling automated compliance reporting for a global client operating across 50+ business units and 100+ locations.
+- Delivered IT architecture transformation roadmaps for 3 enterprise clients in retail and life science, defining KPIs and outcomes for ESG-focused data discovery and collection solutions.
+- Executed the proposed roadmap increasing data collection transparency and traceability for 40+ data sources.
 
 **Automation Solution Architect** | **Northvolt** | Stockholm, Sweden | 02.2022 – 10.2024  
 - Guiding the solution architecture expertise for holistic automation solutions. Executing strategies from inception to execution ensuring the seamless integration of business processes. Conducting technical reviews and quality assurance for developed solutions. 
@@ -56,6 +57,7 @@ Professional retraining in Entrepreneurship
 
 ### **Certifications**
 
+Reinvention with Agentic AI | Accenture | 2025  
 [Certified Technology Architect](https://www.credly.com/badges/9b18cbcc-72a3-4df2-8636-56eb18e35b9e) | Accenture | 2025  
 [Enterprise Architecture Basics](https://skillsoft.digitalbadges.skillsoft.com/ba08dea1-c6f8-4892-9f76-afbcb9bb7ef4#acc.NhWRmv31) | Skillsoft | 2024  
 [McKinsey.org Forward Program](https://www.credly.com/badges/a6ee14de-7508-42b3-af58-ec25e72f5143) | McKinsey & Company | 2024  
