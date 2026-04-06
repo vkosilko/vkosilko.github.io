@@ -57,7 +57,7 @@ Professional retraining in Entrepreneurship
 
 ### **Certifications**
 
-Reinvention with Agentic AI | Accenture | 2025  
+[Reinvention with Agentic AI](https://www.credly.com/badges/feba6dac-4b41-4096-9b37-1da4a732b172/public_url) | Accenture | 2025  
 [Certified Technology Architect](https://www.credly.com/badges/9b18cbcc-72a3-4df2-8636-56eb18e35b9e) | Accenture | 2025  
 [Enterprise Architecture Basics](https://skillsoft.digitalbadges.skillsoft.com/ba08dea1-c6f8-4892-9f76-afbcb9bb7ef4#acc.NhWRmv31) | Skillsoft | 2024  
 [McKinsey.org Forward Program](https://www.credly.com/badges/a6ee14de-7508-42b3-af58-ec25e72f5143) | McKinsey & Company | 2024  
