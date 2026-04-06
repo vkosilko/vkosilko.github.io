@@ -69,6 +69,12 @@ Professional retraining in Entrepreneurship
 **Microsoft Intelligent Manufacturing Award** \| Roland Berger \| 2024  
 Innovative solution for sustainable battery production \| [Link](https://www.rolandberger.com/en/Insights/Publications/The-winners-of-the-Microsoft-Intelligent-Manufacturing-Award-2024.html)  
 
+### **Leadership Profile**
+
+**Gallup CliftonStrengths:** Relator · Harmony · Responsibility · Developer · Futuristic
+
+I value transparency, a playing-coach mindset, and building trust through commitment and delivery on promised results.
+
 ### **Languages**  
 - Russian 
 - English
